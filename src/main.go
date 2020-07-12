@@ -1,8 +1,8 @@
-package main
+package mygo
 
 import(
 	"github.com/Zhucola/gomoduletest/src"
 )
-func main(){
+func Test(){
 	apue.Test()
 }
