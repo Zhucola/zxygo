@@ -1,5 +1,5 @@
-module www.zxy.com
+module github.com/Zhucola/zxygo
 
 go 1.14
 
-require github.com/Zhucola/gomoduletest v3.0.0+incompatible
+require github.com/Zhucola/gomoduletest v4.0.0+incompatible
